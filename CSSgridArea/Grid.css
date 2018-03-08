@@ -1,0 +1,40 @@
+.container {
+    height: 100%;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: repeat(12, auto);
+    grid-template-rows: repeat(12, auto);
+}
+
+.header {
+
+}
+
+.menu {
+
+}
+
+.content {
+
+    grid-row: minmax(300px, 600px)
+}
+
+.alba {
+
+}
+
+.ball {
+
+}
+
+.xavier {
+
+}
+
+.donkey {
+
+}
+
+.footer {
+
+}
